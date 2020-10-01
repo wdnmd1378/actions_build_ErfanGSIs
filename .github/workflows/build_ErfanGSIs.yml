@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+  ROM_URL: https://rc567n.jomodns.com/r/d1.baidupcs.com/file/52b49f6d1va2416df95117413c491321?bkt=en-e031c0692dcd5a21c06c31354c512a518308d389369cd14e87091b8d5573ac798e6b87e31b820264&xcode=2b4ff836c21168adf83c5d56047374e4271e90230aa5f67f07c01165ca32cc7ae439469b6c22bf94b2876f6ffbec8143&fid=2952402408-778750-508482208343283&time=1601512822&sign=FDTAXUGERLQlBHSKfa-DCb740ccc5511e5e8fedcff06b081203-W7FZs7GTDglgiulqK%2FsDnfLOU0U%3D&to=d1&size=2688113913&sta_dx=2688113913&sta_cs=1482&sta_ft=zip&sta_ct=1&sta_mt=0&fm2=MH%2CXian%2CAnywhere%2C%2Cdefault%2Cany&ctime=1601382969&mtime=1601512728&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=2688113913&vuk=9223372036854493472&iv=0&htype=&randtype=&origin=dlna&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-66dd83130321cac350bc3ec488fa37f0702ca36ba6b04ba6646484e87723f4e2d0b8294160d7bd9d&sl=76480590&expires=8h&rt=sh&r=465689274&sh=1&vbdid=-&fin=RedmiK20Pro-20200929-20.9.29-10-ac0be07b-Simplicity-Auto.zip&rtype=1&dp-logid=6363213578858796026&dp-callid=0.1&hps=1&tsl=80&csl=80&fsl=-1&csign=So1zm7kVl%2BoTbFRw6dPHmUsNjlM%3D&so=0&ut=6&uter=3&serv=0&uc=4001386278&ti=864723ea75b7f33514089ca0af4199c200d76314e129dca8305a5e1275657320&hflag=10&adg=n&reqlabel=778750_f_12fbe9229ef8c9ad27eb6e00a2207fb2_-1_c70c39ac8795e47acd622248c46fd7d1&by=themis
   ROM_NAME: MIUI
-  TZ: Asia/Shanghai
+  TZ: Miui
 
 jobs:
   build:
