@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://27.159.125.4/bigota.d.miui.com/V12.0.4.0.QFJCNXM/miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip
+  ROM_URL: https://github-production-release-asset-2e65be.s3.amazonaws.com/130209234/614ccd00-b173-11ea-94f5-bc9fa1e2430a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201001%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201001T031130Z&X-Amz-Expires=300&X-Amz-Signature=3acff8f8b8482d0733f39528339e41b3ee797a0d07cbe990ea92df2eec3e1fd5&X-Amz-SignedHeaders=host&actor_id=72167107&key_id=0&repo_id=130209234&response-content-disposition=attachment%3B%20filename%3Dfw_sagit_miui_MI6_20.6.18_3f5b90d469_9.0.zip&response-content-type=application%2Foctet-stream
   ROM_NAME: MIUI11
   TZ: Miui
 
